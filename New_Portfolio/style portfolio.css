@@ -1,0 +1,40 @@
+body{
+  background-color: Black;
+  background-image: url("./images/download.jpg");
+  
+  background-size: cover;
+}
+
+h1{
+ color: goldenrod; 
+}
+h2{color: blue;
+
+}
+p{
+  color: goldenrod;
+}
+ol{
+  color: goldenrod;
+}
+ul{
+  color: goldenrod;
+}
+.profilecard{background-color: red;
+padding: 24px;
+margin: 16px;
+width: 200px;
+}
+
+   .cardcontainer{
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .moreinfo{
+    color:blue ;
+    background-color: red;
+   }
+   .changename{
+    color: red;
+    background-color: blue;
+   }
